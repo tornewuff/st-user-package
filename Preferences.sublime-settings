@@ -1,11 +1,13 @@
 {
+	"color_scheme": "Packages/User/SublimeLinter/Predawn Monokai (SL).tmTheme",
 	"default_line_ending": "unix",
 	"dictionary": "Packages/Language - English/en_GB.dic",
 	"ensure_newline_at_eof_on_save": true,
+	"font_size": 11,
 	"highlight_modified_tabs": true,
-	"hot_exit": false,
 	"ignored_packages":
 	[
+		"JavaScript",
 		"Vintage"
 	],
 	"indent_guide_options":
@@ -14,14 +16,24 @@
 		"draw_active"
 	],
 	"indent_to_bracket": true,
-	"remember_open_files": false,
+	"predawn_findreplace_small": true,
+	"predawn_quick_panel_small": true,
+	"predawn_sidebar_arrows": true,
+	"predawn_sidebar_medium": true,
+	"predawn_sidebar_narrow": true,
+	"predawn_tabs_active_underline": true,
+	"predawn_tabs_small": true,
 	"rulers":
 	[
-		80
+		80,
+		100
 	],
 	"scroll_past_end": false,
 	"shift_tab_unindent": true,
-	"tab_size": 4,
+	"show_encoding": true,
+	"show_line_endings": true,
+	"tab_size": 2,
+	"theme": "predawn-DEV.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true
 }

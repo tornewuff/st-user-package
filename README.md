@@ -1,4 +1,4 @@
-st2-user-package
-================
+st-user-package
+===============
 
-Sublime Text 2 configuration
+Sublime Text 3 configuration

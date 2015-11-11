@@ -1,11 +1,23 @@
 {
-	"auto_upgrade_last_run": null,
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
+		"AdvancedNewFile",
+		"Babel",
+		"Babel Snippets",
 		"Comments Aware Enter",
 		"EditorConfig",
 		"Modific",
 		"Package Control",
-		"SublimeLinter"
+		"Predawn",
+		"Predawn Monokai",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-annotations",
+		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-json"
 	]
 }
