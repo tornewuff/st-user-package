@@ -1,3 +1,4 @@
 /Package Control.cache/
 /Package Control.last-run
-/SublimeLinter/*.tmTheme 
+/SublimeLinter/*.tmTheme
+/Package Control.*-ca-bundle
